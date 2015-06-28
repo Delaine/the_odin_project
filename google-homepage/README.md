@@ -1,4 +1,6 @@
-# The Odin Project
-HTML/CSS Project: Google Homepage
+# THE ODIN PROJECT
 
-Project link
+Google HomePage
+
+Project link:
+https://github.com/Delaine/google-homepage
